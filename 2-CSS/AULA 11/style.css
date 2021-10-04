@@ -1,0 +1,56 @@
+body {
+    background: #cfcece;
+    font-family: 'PT Sans Narrow', sans-serif;
+    font-size: 20px;
+    color: rgb(34, 34, 34);
+}
+
+.container {
+  width: 900px;
+  margin: 0 auto;
+  }
+
+.profile {
+  text-align: center;
+  margin-bottom: 40px;
+ }  
+
+.foto-principal {
+  width: 200px;
+  margin-top: 50px;
+  border: 3px solid #0f0f0f;
+  border-radius: 50% 10% 30% 70%;
+  margin: 30px 30px 0px 30px;
+  padding: 10px;
+  box-shadow: 12px 12px 12px black;
+}
+
+h1{
+  margin-top:10px;
+  margin-bottom: 0;
+  letter-spacing: -1px;
+  font-family: 'Gemunu Libre', sans-serif;
+  font-size: 40px;
+ }
+
+h2 {
+  margin-top: 0;
+  font-style: italic;
+  color: rgb(93 92 92);
+  font-weight: 100;
+  letter-spacing: -1px;
+}
+
+.social-links{
+  text-decoration: none;
+}
+
+.social-icons{
+  width: 25px;
+  height: auto;
+}
+
+.github{
+  margin: 0 18px 0 18px;
+}
+

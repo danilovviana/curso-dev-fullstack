@@ -1,0 +1,17 @@
+body {
+    background: #cfcece
+}
+
+p {
+  color: rgb(34, 34, 34);
+}
+
+.foto-principal {
+  width: 200px;
+  margin-top: 50px;
+  border: 3px solid #0f0f0f;
+  border-radius: 50% 10% 30% 70%;
+  margin: 30px;
+  padding: 10px;
+  box-shadow: 12px 12px 12px black;
+}
