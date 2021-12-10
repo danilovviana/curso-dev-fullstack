@@ -1,0 +1,7 @@
+
+// GLOBAL
+
+window.alert('')
+
+alert('')
+
